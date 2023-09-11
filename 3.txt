@@ -1,0 +1,24 @@
+-use html and css
+-header section: add your name and logo at the top and use brief intro
+-about section: insret an image,write sort bio and about your skills and experience
+
+-skills section: list your key skills and area of expertise
+-project section: showcase of your work or project, include project image,title and description
+
+-resume section:provide a link to download your resume as a pdf format
+-contact section: incclude your contact info, such as email and phone no.
+-footer: add a copyright notice and additional link
+
+
+
+
+3
+rd year IT engineering | Government Engineering College 
+Gandhinagar
+2023 – PESENT 
+1
+st year cpi:7.95 
+Higher study | Abhilasha shakhshanik shankul
+2017 – 2021 
+HSC result : 91.2% 
+SSC result : 90.17% 
